@@ -92,7 +92,7 @@ We hope that together we can create a pleasant, respectful working atmosphere!
 ### Orientation
 \
 \
-![](/DMP/images/orientation.png)
+![](../DMP/images/orientation.png)
 
 ### Limitations
 
