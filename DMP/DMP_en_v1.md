@@ -25,7 +25,7 @@ comment:  This document provides a brief introduction to research data managemen
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
 >
-> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LindaZollitsch/DMP/main/DMP_en_v1.md#1)
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/RDM4CAU/DMP-Workshop/refs/heads/main/DMP/DMP_en_v1.md#1)
 >
 > If you have questions, please contact us: [Central Research Data Management](https://www.datamanagement.uni-kiel.de/de)
 >
@@ -96,7 +96,7 @@ We hope that together we can create a pleasant, respectful working atmosphere!
 
 ### Limitations
 
-<img src="/DMP/images/rdm-lifecycle.png" alt="rdm-lifecycle" width="500" align="right">
+<img src="../DMP/images/rdm-lifecycle.png" alt="rdm-lifecycle" width="500" align="right">
 
 >We assume that you are familiar with… 
 >
@@ -118,7 +118,7 @@ We hope that together we can create a pleasant, respectful working atmosphere!
 
 ### Learning Objectives
 
-<img src="/DMP/images/target.png" alt="target" width="500" align="right">
+<img src="../DMP/images/target.png" alt="target" width="500" align="right">
 
 We hope after the workshop participants...
 ---
@@ -135,7 +135,7 @@ We hope after the workshop participants...
 
 ## DMP Statements
 
-![](/DMP/images/orientation.png)
+![](../DMP/images/orientation.png)
 
 ### Statement 1
 
@@ -199,7 +199,7 @@ DMPs become mandatory!
 >
 >DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 
-![](/DMP/images/EUguidelines.png)
+![](../DMP/images/EUguidelines.png)
 
 ***********
 
@@ -216,8 +216,8 @@ DMPs are sustainable!
 A DMP contains valuable preparatory work for further requirements (ethics application, contracts) and supports subsequent communication with service providers as a kind of results catalog (e.g., for data transfer to repositories or for writing data availability statements for journals).
 
 
-![](/DMP/images/journals_data-availability1.png)
-![](/DMP/images/journals_data-availability2.png)
+![](../DMP/images/journals_data-availability1.png)
+![](../DMP/images/journals_data-availability2.png)
 
 ***********
 
@@ -225,12 +225,12 @@ A DMP contains valuable preparatory work for further requirements (ethics applic
 
 {{0-1}}
 ***********
-![](/DMP/images/orientation.png)
+![](../DMP/images/orientation.png)
 ***********
 
 {{1-2}}
 ***********
-![](/DMP/images/dmp-content.png)
+![](../DMP/images/dmp-content.png)
 
 ***********
 
@@ -399,7 +399,7 @@ A DMP contains valuable preparatory work for further requirements (ethics applic
 
 {{3-4}}
 ***********
-![](/DMP/images/budgeting.png)
+![](../DMP/images/budgeting.png)
 
 See:. Jasmin Böhmer. (2019, September). UBC RDM Workshop 1 - Data Management Planning (Version V2). Zenodo. http://doi.org/10.5281/zenodo.3469953 
 
@@ -407,7 +407,7 @@ See:. Jasmin Böhmer. (2019, September). UBC RDM Workshop 1 - Data Management Pl
 
 {{4}}
 ***********
-![](/DMP/images/ressources.png)
+![](../DMP/images/ressources.png)
 
 Adopted from.: Soßna, Volker: Wie lassen sich die Kosten für das Forschungsdatenmanagement abschätzen? Folien des Service-Teams Forschungsdaten der UH / TIB, Dezember 2018. Illustrations by Jørgen Stamp. CC BY 2.5 Denmark license www.digitalbevaring.dk
 
@@ -417,13 +417,13 @@ Adopted from.: Soßna, Volker: Wie lassen sich die Kosten für das Forschungsdat
 
 {{0-1}}
 ***********
-![](DMP/images/orientation.png)
+![](../DMP/images/orientation.png)
 ***********
 
 {{1-2}}
 ***********
 <div style="width: 20%; float:right">
-![Plan](/DMP/images/dmp-roles.png)
+![Plan](../DMP/images/dmp-roles.png)
 </div>
 
 * Data Manager
@@ -445,8 +445,8 @@ Adopted from.: Soßna, Volker: Wie lassen sich die Kosten für das Forschungsdat
 {{2}}
 ***********
 
-![](/DMP/images/nfdi.png)
-![](/DMP/images/nfdi_consortia.png)
+![](../DMP/images/nfdi.png)
+![](../DMP/images/nfdi_consortia.png)
 
 Official NFDI website: https://www.nfdi.de/?lang=en
 
@@ -455,7 +455,7 @@ Official NFDI website: https://www.nfdi.de/?lang=en
 ## Why? Guidelines & requirements
 {{0-1}}
 ***********
-![](/DMP/images/orientation.png)
+![](../DMP/images/orientation.png)
 ***********
 
 {{1}}
@@ -515,7 +515,7 @@ What about relevant guidelines at Kiel University?
 {{1}}
 ***********
 
-![](/DMP/images/fair.png)
+![](../DMP/images/fair.png)
 
 FAIR concentrates on how to prepare data in a sustainable way that it can be found and used by others.
 
@@ -535,13 +535,13 @@ FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR ar
 
 ## How? Templates & Tools
 
-![](/DMP/images/orientation.png)
+![](../DMP/images/orientation.png)
 
 ### DMP templates
 {{0-1}}
 ***********
 <div style="width: 20%; float:right">
-![working](/DMP/images/working.png)
+![working](../DMP/images/working.png)
 </div>
 
 > **So, how to start...? Use templates!**
@@ -551,7 +551,7 @@ FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR ar
 {{1-3}}
 ***********
 <div style="width: 20%; float:right">
-![working](/DMP/images/working.png)
+![working](../DMP/images/working.png)
 </div>
 
 **Templates**
@@ -586,7 +586,7 @@ FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR ar
 
 **Based on the Research Data Lifecycle**
 
-<img src="/DMP/images/rdm-lifecycle.png" alt="rdm-lifecycle" width="500" align="right">
+<img src="../DMP/images/rdm-lifecycle.png" alt="rdm-lifecycle" width="500" align="right">
 
 * [DFG Checklist](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/forschungsdaten_checkliste_de.pdf)
 
@@ -598,7 +598,7 @@ FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR ar
 ***********
 **Based on the FAIR-Principles**
 
-<img src="/DMP/images/fair.png" alt="rdm-lifecycle" width="500" align="right">
+<img src="../DMP/images/fair.png" alt="rdm-lifecycle" width="500" align="right">
 
 * [EU Horizon Europe-Template](https://fdm.uni-koeln.de/sites/FDM-UzK/Templates/data-management-plan-template_he_en-2.docx)
 
@@ -607,14 +607,14 @@ FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR ar
 {{5-6}}
 ***********
 
-![](/DMP/images/cau-template.png)
+![](../DMP/images/cau-template.png)
 
 ***********
 
 {{6-7}}
 ***********
 
-![](/DMP/images/science-europe.jpg)
+![](../DMP/images/science-europe.jpg)
 
 Science Europe Template & Practical Guide https://www.scienceeurope.org/our-priorities/research-data/research-data-management/ 
 
@@ -623,7 +623,7 @@ Science Europe Template & Practical Guide https://www.scienceeurope.org/our-prio
 {{7}}
 ***********
 
-![](/DMP/images/horizon-europe.png)
+![](../DMP/images/horizon-europe.png)
 
 Usually linked in the EU Funding & tenders portal.
 Alternative LINKs: 
@@ -639,7 +639,7 @@ https://enspire.science/wp-content/uploads/2021/09/Horizon-Europe-Data-Managemen
 **Generic DMP-Tools**
 
 <div style="width: 20%; float:right">
-![working](/DMP/images/working.png)
+![working](../DMP/images/working.png)
 </div>
 
 [Research Data Management Organizer (RDMO) - DFG-funded](https://rdmorganiser.github.io/)
@@ -668,7 +668,7 @@ https://enspire.science/wp-content/uploads/2021/09/Horizon-Europe-Data-Managemen
 ## Excercise
 
 <div style="width: 20%; float:right">
-![working](/DMP/images/working.png)
+![working](../DMP/images/working.png)
 </div>
 
 **Task**
@@ -683,36 +683,36 @@ https://enspire.science/wp-content/uploads/2021/09/Horizon-Europe-Data-Managemen
 
 {{0}}
 ***********
-![](/DMP/images/example1.png)
+![](../DMP/images/example1.png)
 ***********
 
 {{1}}
 ***********
-![](/DMP/images/solution1.png)
+![](../DMP/images/solution1.png)
 ***********
 
 ### Example 2
 
 {{0}}
 ***********
-![](/DMP/images/example2.png)
+![](../DMP/images/example2.png)
 ***********
 
 {{1}}
 ***********
-![](/DMP/images/solution2.png)
+![](../DMP/images/solution2.png)
 ***********
 
 ### Example 3
 
 {{0}}
 ***********
-![](/DMP/images/example3.png)
+![](../DMP/images/example3.png)
 ***********
 
 {{1}}
 ***********
-![](/DMP/images/solution3.png)
+![](../DMP/images/solution3.png)
 ***********
 
 
@@ -720,7 +720,7 @@ https://enspire.science/wp-content/uploads/2021/09/Horizon-Europe-Data-Managemen
 
 {{0}}
 ***********
-![](/DMP/images/orientation.png)
+![](../DMP/images/orientation.png)
 
 ***********
 
@@ -766,7 +766,7 @@ https://doi.org/10.1371/journal.pcbi.1004525
 ***********
 
 <div style="width: 50%; float:right">
-![services](/DMP/images/cau-services.png)
+![services](../DMP/images/cau-services.png)
 </div>
 
 website: https://www.datamanagement.uni-kiel.de/en?set_language=en 
@@ -780,7 +780,7 @@ e-mail: info@fdm.uni-kiel.de
 **Consultation**
 
 <div style="width: 20%; float:right">
-![working](/DMP/images/consultation.png)
+![working](../DMP/images/consultation.png)
 </div>
 
 * proposal consulting
@@ -801,7 +801,7 @@ e-mail: info@fdm.uni-kiel.de
 **Training & Teaching support**
 
 <div style="width: 20%; float:right">
-![working](/DMP/images/training.png)
+![working](../DMP/images/training.png)
 </div>
 
 * workshops
@@ -820,7 +820,7 @@ e-mail: info@fdm.uni-kiel.de
 **RDM Infrastructure**
 
 <div style="width: 20%; float:right">
-![working](/DMP/images/infrastructure.png)
+![working](../DMP/images/infrastructure.png)
 </div>
 
 * RDM services
@@ -836,7 +836,7 @@ e-mail: info@fdm.uni-kiel.de
 **Networking**
 
 <div style="width: 20%; float:right">
-![working](/DMP/images/networking.png)
+![working](../DMP/images/networking.png)
 </div>
 
 * local networking at CAU via [AG FDM](https://www.datamanagement.uni-kiel.de/en/networking?set_language=en)
@@ -853,7 +853,7 @@ e-mail: info@fdm.uni-kiel.de
 **Contact**
 
 <div style="width: 20%; float:right">
-![team](/DMP/images/team.png)
+![team](../DMP/images/team.png)
 </div>
 
 Feel free to contact us:
@@ -881,7 +881,7 @@ Feel free to contact us:
 This workshop material is fully based on 
 
 <div style="width: 20%; float:right">
-![crrdmlogo](/DMP/images/c3rdm.png)
+![crrdmlogo](../DMP/images/c3rdm.png)
 </div>
 
 Schenk, Jasmin & Mühlichen Andreas: „How to write a data management plan?“
