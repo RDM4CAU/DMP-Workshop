@@ -60,7 +60,7 @@ comment:  This document provides a brief introduction to research data managemen
 ### Workshop rules
 
 <div style="width: 20%; float:right">
-![Plan](../DMP/images/dmp-roles.png)
+![Plan](..\DMP\images\dmp-roles.png)
 </div>
 
 We hope that together we can create a pleasant, respectful working atmosphere!
