@@ -445,8 +445,7 @@ Adopted from.: Soßna, Volker: Wie lassen sich die Kosten für das Forschungsdat
 {{2-3}}
 ***********
 
-![](../DMP/images/nfdi.png)
-![](../DMP/images/nfdi_consortia.png)
+![](./images/fdm-sh.png)
 
 Official NFDI website: https://www.nfdi.de/?lang=en
 
