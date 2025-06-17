@@ -413,7 +413,7 @@ Adopted from.: Soßna, Volker: Wie lassen sich die Kosten für das Forschungsdat
 
 ***********
 
-## Who? RDM roles
+## Who? RDM roles and networks
 
 {{0-1}}
 ***********
@@ -442,13 +442,23 @@ Adopted from.: Soßna, Volker: Wie lassen sich die Kosten für das Forschungsdat
 
 ***********
 
-{{2}}
+{{2-3}}
 ***********
 
 ![](../DMP/images/nfdi.png)
 ![](../DMP/images/nfdi_consortia.png)
 
 Official NFDI website: https://www.nfdi.de/?lang=en
+
+***********
+
+{{3}}
+***********
+
+![](../DMP/images/nfdi.png)
+![](../DMP/images/nfdi_consortia.png)
+
+Official FDM-Sh website: https://fdm-sh.de/
 
 ***********
 
