@@ -499,7 +499,7 @@ DFG Guidelines
 
     * [Cape-Town Statement](https://www.wcrif.org/guidance/cape-town-statement)
 
-    * [Singapore Statement](https://www.wcrif.org/statement)
+* [Singapore Statement](https://www.wcrif.org/statement)
 
 ### Guidelines (Kiel University)
 {{0}}
