@@ -497,9 +497,9 @@ DFG Guidelines
 
 * Research Integrity Statements
 
-* [Cape-Town Statement](https://www.wcrif.org/guidance/cape-town-statement)
+    * [Cape-Town Statement](https://www.wcrif.org/guidance/cape-town-statement)
 
-* [Singapore Statement](https://www.wcrif.org/statement)
+    * [Singapore Statement](https://www.wcrif.org/statement)
 
 ### Guidelines (Kiel University)
 {{0}}
@@ -882,7 +882,7 @@ Feel free to contact us:
 >b.petersen@rz.uni-kiel.de 
 >
 >Linda Zollisch 
->zollitsch@ub-uni-kiel.de
+>zollitsch@ub.uni-kiel.de
 
 ***********
 
