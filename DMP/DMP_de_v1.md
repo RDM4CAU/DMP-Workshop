@@ -379,7 +379,7 @@ Ein DMP enthält wertvolle Vorarbeiten für weitere Anforderungen (Ethikantrag, 
 
 {{1-2}}
 ***********
-**Wer ist für RDM verantwortlich?**
+**Wer ist für FDM verantwortlich?**
 
 * Regelung der Verantwortlichkeiten
 
