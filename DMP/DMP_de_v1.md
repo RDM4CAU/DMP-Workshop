@@ -499,9 +499,9 @@ DFG Guidelines
 * Research Integrity Statements
 
     * [Cape-Town Statement](https://www.wcrif.org/guidance/cape-town-statement)
- * [Singapore Statement](https://www.wcrif.org/statement)
+    * [Singapore Statement](https://www.wcrif.org/statement)
 
-### Guidelines (Kiel University)
+### Guidelines (CAU)
 {{0}}
 ***********
 Wie sieht es mit entsprechenden Richtlinien an der CAU aus?
@@ -827,7 +827,7 @@ e-mail: info@fdm.uni-kiel.de
 
 {{3-4}}
 ***********
-**FDM Infrastructure**
+**FDM Infrastruktur**
 
 <div style="width: 20%; float:right">
 ![working](../DMP/images/infrastructure.png)
@@ -853,7 +853,7 @@ e-mail: info@fdm.uni-kiel.de
 
 * regionale Vernetzung über [FDM-SH](https://fdm-sh.de/)
 
-* aktive Vernetzung in verschiedenen relevanten nationalen Arbeitsgruppen (z.B. NFDI, DINI/nesor AG Forschungsdaten, GoFAIR)
+* aktive Vernetzung in verschiedenen relevanten nationalen Arbeitsgruppen (z.B. NFDI, DINI/nestor AG Forschungsdaten, GoFAIR)
 
 * Internationale Vernetzung: z.B. RDA
 ***********
