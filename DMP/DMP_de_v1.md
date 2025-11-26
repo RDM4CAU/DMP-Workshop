@@ -788,7 +788,7 @@ https://enspire.science/wp-content/uploads/2021/09/Horizon-Europe-Data-Managemen
 10. **Erstellen eines realistischen Budgets**
 
 <small>Michener WK (2015) Ten Simple Rules for Creating a Good Data Management Plan. PLoS Comput Biol 11(10): e1004525. 
-https://doi.org/10.1371/journal.pcbi.1004525</small> 
+https://doi.org/10.1371/journal.pcbi.1004525 </small> 
 
 
 ## CAU Services
