@@ -876,7 +876,7 @@ Kontaktieren Sie uns gerne:
 >Andreas Christ
 >christ@ub.uni-kiel.de 
 
->**WWorkshops & Unterstützung für Lehrkräfte:**
+>**Workshops & Unterstützung für Lehrkräfte:**
 >
 >Britta Petersen
 >b.petersen@rz.uni-kiel.de 
