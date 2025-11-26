@@ -102,10 +102,9 @@ Wir hoffen, dass wir gemeinsam eine angenehme und respektvolle Arbeitsatmosphär
 >* die wichtigsten Begriffe und
 >
 >* das Grundkonzept des Forschungsdatenmanagements
+>
+>* Wir werden in diesem Rahmen keinen DMP schreiben
 
-* Wir werden in diesem Rahmen keinen DMP schreiben
-
-* 
 
 {{1}}
 ***********
