@@ -32,7 +32,7 @@ comment:  This document provides a brief introduction on how to write a DMP. It 
 
 <div style="page-break-after: always;"></div>
 
-## Einführung
+## Einstieg
 
 <div style="background-color: lightblue;padding: 25px">
 ![Plan](../DMP/images/dmp-roles.png)
@@ -46,7 +46,7 @@ comment:  This document provides a brief introduction on how to write a DMP. It 
 
 <article>
 <br>
-## Lehrende
+## Wer sind wir?
 - Britta Petersen
 - Linda Zollitsch
 \
@@ -65,45 +65,44 @@ comment:  This document provides a brief introduction on how to write a DMP. It 
 Wir hoffen, dass wir gemeinsam eine angenehme und respektvolle Arbeitsatmosphäre schaffen können!
 ---
 
-- bitte machen Sie nichts nebenbei
+- Bitte machen Sie nichts nebenbei.
 
-- nehmen Sie aktiv teil
+- Nehmen Sie aktiv teil.
 
-- lassen Sie es uns wissen, wenn Sie Fragen haben
+- Lassen Sie es uns wissen, wenn Sie Fragen haben.
 
-- lassen Sie einander ausreden
+- Lassen Sie einander ausreden.
 
-- helfen Sie einander
+- Helfen Sie einander.
 
-- lassen Sie Fehler zu
+- Lassen Sie Fehler zu.
 
-### Warm up
+### Vorstellungsrunde
 
-**Lassen Sie uns ein Spiel spielen…**
-
->Wir werden Ihnen Aussagen vorlesen.
+>**Stellen Sie sich bitte kurz vor.**
 >
->Jedes Mal, wenn Sie einer Aussage zustimmen können, stehen Sie auf. 
+>Wer sind Sie?
 >
+>In welchem Bereich arbeiten Sie?
 >
->Das wars!
+>Warum sind Sie heute hier?
 
 ### Orientierung
 \
 \
 ![](../DMP/images/orientation.png)
 
-### Limitations
+### Limitationen
 
 <img src="../DMP/images/rdm-lifecycle.png" alt="rdm-lifecycle" width="500" align="right">
 
->Wir gehen davon aus, dass Sie mit Folgendem vertraut sind… 
+>Wir gehen davon aus, dass Sie mit Folgendem vertraut sind: 
 >
->* die wichtigsten Begriffe und
+>* den wichtigsten Begriffen und
 >
->* das Grundkonzept des Forschungsdatenmanagements
+>* den Grundprinzipien des Forschungsdatenmanagements.
 >
->* Wir werden in diesem Rahmen keinen DMP schreiben
+>Wir werden in diesem Workshop keinen DMP schreiben.
 
 
 {{1}}
@@ -111,9 +110,9 @@ Wir hoffen, dass wir gemeinsam eine angenehme und respektvolle Arbeitsatmosphär
 
 >Hier finden Sie einige Beispiele für Lernressourcen zu den Grundlagen des Forschungsdatenmanagements:
 >
->https://isis.tu-berlin.de/course/view.php?id=34606 
+>[TU Berlin: E-Learning-Kurs zum Forschungsdatenmanagement (FDM)](https://isis.tu-berlin.de/course/view.php?id=34606) 
 >
->https://www.edulabs.uni-koeln.de/goto.php?target=fold_1513&client_id=iliasedulabs 
+>[Uni Kassel: Einführung in das Forschungsdatenmanagement](https://www.uni-kassel.de/forschung/forschungsdatenmanagement/selbstlernangebote/einfuehrung-ins-forschungsdatenmanagement.html)
 
 ***********
 
@@ -149,7 +148,7 @@ DMPs sparen Zeit!
 {{1}}
 ***********
 
->"Frühe Planung ist die halbe Miete!“
+>*Gut geplant ist halb gewonnen!*
 >
 >* Verantwortlichkeiten definiert
 >
@@ -172,20 +171,20 @@ DMPs sparen Geld!
 {{1}}
 ***********
 
->Der erste Aufwand zahlt sich aus!
+>*Planungsaufwand kann sich auszahlen!*
 >
 >* gezielter Einsatz von Ressourcen
 >
->* spezifische FDM-Ressourcen erwerben
+>* spezifische FDM-Ressourcen einplanen
 >
->* Budget externe Dienstleistungen
+>* Budget für externe Dienstleistungen
 
 ***********
 
 ### Statement 3
 
 <div style="background-color: lightblue;padding: 25px">
-DMPs werden verpflichtend!
+DMPs sind zunehmend Pflicht!
 ---
 </div>
 <br>
@@ -248,7 +247,7 @@ Ein DMP enthält wertvolle Vorarbeiten für weitere Anforderungen (Ethikantrag, 
 
 * Projekttitel / Akronym
 
-* PI /Hauptforscherende:r
+* PI /Hauptforschende:r
 
 * Forscher-ID (z. B. ORCID)
 
@@ -256,7 +255,7 @@ Ein DMP enthält wertvolle Vorarbeiten für weitere Anforderungen (Ethikantrag, 
 
 * Datum der ersten DMP-Versionn
 
-* Datum der letzten Aktualisierung
+* Datum der letzten DMP-Aktualisierung
 
 ***********
 
@@ -300,7 +299,7 @@ Ein DMP enthält wertvolle Vorarbeiten für weitere Anforderungen (Ethikantrag, 
 
 ***********
 
-### Datendokumentation und Qualitätskontrolle
+### Dokumentation und Qualität
 
 {{1}}
 ***********
@@ -308,13 +307,13 @@ Ein DMP enthält wertvolle Vorarbeiten für weitere Anforderungen (Ethikantrag, 
 
 * Versionierung
 
-* Metadatenstandards
+* Metadaten
 
 * Kontrollierte Vokabulare / Ontologien
 
 * unterstützende Dokumentation
 
-* Virtuelle Forschungsumgebungen / Datenbanken / ELAB-Journale
+* Virtuelle Forschungsumgebungen / Datenbanken / elektronische Laborbücher
 
 ***********
 
@@ -427,6 +426,8 @@ Adopted from.: Soßna, Volker: Wie lassen sich die Kosten für das Forschungsdat
 ![Plan](../DMP/images/dmp-roles.png)
 </div>
 
+**Für Personal, das mit dem Management von Forschungsdaten beschäftigt ist, existieren eine Vielzahl von möglichen Bezeichnungen, z. B.**
+
 * Datenmanager:in
 
 * FDM-Koordinator
@@ -435,7 +436,7 @@ Adopted from.: Soßna, Volker: Wie lassen sich die Kosten für das Forschungsdat
 
 * Data Curator
 
-* Archivare / Dienstleister
+* Archivar
 
 * Forschende
 
@@ -464,44 +465,63 @@ Offizielle FDM.SH Website: https://fdm-sh.de/
 ***********
 
 ## Warum? Richtlinien und Anforderungen
+![](../DMP/images/orientation.png)
+
+
+### Europäische Kommision 
+
+Die Anforderungen der Euroäischen Kommission an das Datenmanagement und die Erstellung von DMPs ist in den letzen Jahren gestiegen!
+
+- seit 2014: Open Access Publikationen verpflichtend, Pilotphase Open Research Data & DMP
+- seit 2017: Open Research Data und DMPs Standard (Ausnahmen möglich)
+- seit 2021: **Horizon Europe**
+
+  -  DMP verpflichtend
+  -  alle Daten sollten standardmäßig gemäß den FAIR-Prinzipien verwaltet werden
+  -  Empfehlung, auch „andere Forschungsergebnisse“ FAIR zu verwalten
+  -  Open Science ist integraler Bestandteil des Programms
+
+siehe:[General Model Grant Agreement](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf)
+
+siehe auch:
+- [EC: Open Research Europe. Data Guidelines](https://open-research-europe.ec.europa.eu/for-authors/data-guidelines)
+- [HE Programme Guide, S.40](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf)
+
+
+### Weitere internationale Richtlinien
+
+- [European Code of Conduct for Research Integrity](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf)
+
+- Research Integrity Statements
+
+    - [Cape-Town Statement](https://www.wcrif.org/guidance/cape-town-statement)
+      
+    - [Singapore Statement](https://www.wcrif.org/statement)
+
+### Nationale Forschungsförderer
 {{0-1}}
 ***********
-![](../DMP/images/orientation.png)
+**BMBF**: Anforderungen variieren je nach Förderlinie
+
+[BMBF Aktionsplan Forschungsdaten]([https://www.bmbf.de/de/aktionsplan-forschungsdaten-12553.html)
+
+[Forschungsdaten im Wissenschaftssystem](https://www.bmftr.bund.de/DE/Forschung/Wissenschaftssystem/Forschungsdaten/forschungsdaten_node.html)
+
 ***********
 
 {{1}}
 ***********
-BMBF: Individuelle Förderkriterien EC: [Aktionsplan FD](https://www.bmbf.de/de/aktionsplan-forschungsdaten-12553.html) auf deutsch
-
-Horizon Europe
-[HE Programme Guide, S.40](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf)
-
-[EC: Open Research Europe. Data Guidelines](https://open-research-europe.ec.europa.eu/for-authors/data-guidelines)
-
-***********
-
-### Guidelines (Germany)
-
-DFG Guidelines
----
+**DFG**: Anforderungen variieren je nach Förderlinie
 
 * [Leitlinien zur Sicherung guter wissenschaftlicher Praxis](https://zenodo.org/records/14281892)
 
 * [Umgang mit Forschungsdaten](https://www.dfg.de/de/grundlagen-themen/grundlagen-und-prinzipien-der-foerderung/forschungsdaten)
 
-* [Subject-Specific Recommendations (DFG-overview)](https://www.dfg.de/en/research_funding/proposal_review_decision/applicants/research_data/index.html#anker62237395)
+* [Fachspezifische Empfehlungen zum Umgang mit Forschungsdaten](https://www.dfg.de/de/grundlagen-themen/grundlagen-und-prinzipien-der-foerderung/forschungsdaten/empfehlungen)
 
+*************
 
-### Guidelines (International)
-
-* [European Code of Conduct for Research Integrity](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf)
-
-* Research Integrity Statements
-
-    * [Cape-Town Statement](https://www.wcrif.org/guidance/cape-town-statement)
-    * [Singapore Statement](https://www.wcrif.org/statement)
-
-### Guidelines (CAU)
+### Institutionelle Richtlinien (CAU)
 {{0}}
 ***********
 Wie sieht es mit entsprechenden Richtlinien an der CAU aus?
@@ -529,7 +549,7 @@ Wie sieht es mit entsprechenden Richtlinien an der CAU aus?
 
 FAIR konzentriert sich darauf, wie Daten nachhaltig aufbereitet werden können, sodass sie von anderen gefunden und genutzt werden können.
 
-Forschungsdaten sind **FAIR** wenn sie auf faire Weise erstellt wurden:
+Forschungsdaten erfüllen die **FAIR-Prinzipien**, wenn sie 
 
 - findable (auffindbar),
 
@@ -537,9 +557,10 @@ Forschungsdaten sind **FAIR** wenn sie auf faire Weise erstellt wurden:
 
 - interoperable (interoperabel),
 
-- und reusable (wiederverwendbar).
+- und reusable (wiederverwendbar) sind.
 
-FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR are your data?. Zenodo. http://doi.org/10.5281/zenodo.3405141 
+<br>
+Eine kurze Checkliste finden Sie hier: FAIR-Checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR are your data?. Zenodo. http://doi.org/10.5281/zenodo.3405141
 
 *******
 
@@ -568,9 +589,9 @@ FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR ar
 
 * [CAU-template](https://www.datamanagement.uni-kiel.de/de/service/materialien)
 
-* [DFG Checklist (for section 2.4 of the proposal)](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/forschungsdaten_checkliste_en.pdf)
+* [DFG Checkliste Forschungsdaten](https://www.dfg.de/resource/blob/174732/forschungsdaten-checkliste-de.pdf)
 
-* [Volkswagen Stiftung Basic DMP (rtf-File)](https://www.volkswagenstiftung.de/sites/default/files/documents/2022-04_basic_data_management_plan.rtf)
+* [Volkswagen Stiftung Basis DMP](https://www.volkswagenstiftung.de/sites/default/files/documents/Basis-Datenmanagementplan.docx)
 
 * [EU Horizon Europe-Template](https://fdm.uni-koeln.de/sites/FDM-UzK/Templates/data-management-plan-template_he_en-2.docx)
 
@@ -672,7 +693,7 @@ https://enspire.science/wp-content/uploads/2021/09/Horizon-Europe-Data-Managemen
 
 * Psychologie: [DataWiz](https://datawiz.leibniz-psychology.org/DataWiz/)
 
-* Bildungsforschung: standardisierte DMPs ([STAMP](https://www.forschungsdaten-bildung.de/stamps-nutzen) demnächst als RDMO-Tool oder PDF-Datei verfügbar)
+* Bildungsforschung: standardisierte DMPs: [STAMP](https://www.forschungsdaten-bildung.de/stamps-nutzen)
 ***********
 
 ## Übung
@@ -766,8 +787,8 @@ https://enspire.science/wp-content/uploads/2021/09/Horizon-Europe-Data-Managemen
 
 10. **Erstellen eines realistischen Budgets**
 
-Michener WK (2015) Ten Simple Rules for Creating a Good Data Management Plan. PLoS Comput Biol 11(10): e1004525. 
-https://doi.org/10.1371/journal.pcbi.1004525 
+<small>Michener WK (2015) Ten Simple Rules for Creating a Good Data Management Plan. PLoS Comput Biol 11(10): e1004525. 
+https://doi.org/10.1371/journal.pcbi.1004525</small> 
 
 
 ## CAU Services
@@ -779,7 +800,7 @@ https://doi.org/10.1371/journal.pcbi.1004525
 ![services](../DMP/images/cau-services.png)
 </div>
 
-website: https://www.datamanagement.uni-kiel.de/en?set_language=en 
+website: [Zentrales Forschungsdatenmanagement](https://www.fdm.uni-kiel.de/de) 
 
 e-mail: info@fdm.uni-kiel.de  
 
@@ -871,17 +892,21 @@ Kontaktieren Sie uns gerne:
 >**DMP-Beratung:**
 >
 >Thorge Petersen
+>
 >petersen@rz.uni-kiel.de
 >
 >Andreas Christ
+>
 >christ@ub.uni-kiel.de 
 
 >**Workshops & Unterstützung für Lehrkräfte:**
 >
 >Britta Petersen
+>
 >b.petersen@rz.uni-kiel.de 
 >
->Linda Zollisch 
+>Linda Zollisch
+>
 >zollitsch@ub.uni-kiel.de
 
 ***********
