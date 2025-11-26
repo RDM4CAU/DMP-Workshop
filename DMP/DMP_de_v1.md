@@ -24,7 +24,7 @@ comment:  This document provides a brief introduction on how to write a DMP. It 
 
 > Um dieses Dokument als interaktive, mit LiaScript gerenderte Version anzuzeigen, klicken Sie auf den folgenden Link/das folgende Symbol:
 >
-> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/RDM4CAU/DMP-Workshop/refs/heads/main/DMP/DMP_en_v1.md#1)
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/RDM4CAU/DMP-Workshop/main/DMP/DMP_de_v1.md#1)
 >
 > Bei Fragen wenden Sie sich bitte an uns: [Central Research Data Management](https://www.datamanagement.uni-kiel.de/de)
 >
@@ -292,7 +292,7 @@ Ein DMP enthält wertvolle Vorarbeiten für weitere Anforderungen (Ethikantrag, 
 {{2}}
 ***********
 
-**Volume**
+**Umfang**
 
 * Schätzen Sie die zu erwartende Datenmenge ein: sowohl während der Datenanalyse als auch nach der Auswahl der Daten für die dauerhafte Archivierung.
 
