@@ -755,15 +755,15 @@ https://enspire.science/wp-content/uploads/2021/09/Horizon-Europe-Data-Managemen
 
 ***********
 
-### Häufige Fehler beim Erstellen von DMPs::
+### Häufige Fehler beim Erstellen von DMPs
 
-* mangelnde Genauigkeit
-
-* Wiederverwendung von Textblöcken
-
-* terminologische Ungenauigkeiten
-
-* mangelnde Ressourcenberechnung
+>- mangelnde Genauigkeit
+>
+>- Wiederverwendung von Textblöcken
+>
+>- terminologische Ungenauigkeiten
+>
+>- mangelnde Ressourcenberechnung
 
 ### DMP Checkliste
 
