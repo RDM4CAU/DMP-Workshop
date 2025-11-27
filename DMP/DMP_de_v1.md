@@ -295,7 +295,7 @@ Ein DMP enthält wertvolle Vorarbeiten für weitere Anforderungen (Ethikantrag, 
 
 * Schätzen Sie die zu erwartende Datenmenge ein: sowohl während der Datenanalyse als auch nach der Auswahl der Daten für die dauerhafte Archivierung.
 
-* Wie groß sind ie größten Einzeldateien?
+* Wie groß sind die größten Einzeldateien?
 
 ***********
 
