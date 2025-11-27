@@ -26,7 +26,7 @@ comment:  This document provides a brief introduction on how to write a DMP. It 
 >
 > [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/RDM4CAU/DMP-Workshop/main/DMP/DMP_de_v1.md#1)
 >
-> Bei Fragen wenden Sie sich bitte an uns: [Central Research Data Management](https://www.datamanagement.uni-kiel.de/de)
+> Bei Fragen wenden Sie sich bitte an uns: [Zentrales Forschungsdatenmanagement](https://www.datamanagement.uni-kiel.de/de)
 >
 > Dieses Werk ist lizensiert unter CC-BY (https://creativecommons.org/licenses/by/4.0/)
 
