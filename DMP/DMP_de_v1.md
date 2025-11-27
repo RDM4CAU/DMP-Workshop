@@ -470,7 +470,7 @@ Offizielle FDM.SH Website: https://fdm-sh.de/
 
 ### Europäische Kommision 
 
-Die Anforderungen der Euroäischen Kommission an das Datenmanagement und die Erstellung von DMPs ist in den letzen Jahren gestiegen!
+Die Anforderungen der Europäischen Kommission an das Datenmanagement und die Erstellung von DMPs ist in den letzen Jahren gestiegen!
 
 - seit 2014: Open Access Publikationen verpflichtend, Pilotphase Open Research Data & DMP
 - seit 2017: Open Research Data und DMPs Standard (Ausnahmen möglich)
