@@ -261,27 +261,16 @@ Verantwortlichkeiten & Ressourcen
 
 **Grundlageninformationen**
 
-* Name der Förderorganisation
+![Grundlagendaten](/DMP/images/Grundlagendaten.png)
 
-* Fördernummer
-
-* Projekttitel / Akronym
-
-* PI /Hauptforschende:r
-
-* Forscher-ID (z. B. ORCID)
-
-* Kontaktdaten der für den DMP verantwortlichen Person
-
-* Datum der ersten DMP-Versionn
-
-* Datum der letzten DMP-Aktualisierung
 
 ***********
 
 {{2}}
 ***********
 **Relevante Richtlinien / Policies**
+
+![Richtlinien]()
 
 * Anforderungen der Förderer
 
@@ -945,3 +934,23 @@ Universität zu Köln
 
 Vielen Dank fürs Teilen! 🥰
 ---
+
+
+# Delete later
+
+
+* Name der Förderorganisation
+
+* Fördernummer
+
+* Projekttitel / Akronym
+
+* PI /Hauptforschende:r
+
+* Forscher-ID (z. B. ORCID)
+
+* Kontaktdaten der für den DMP verantwortlichen Person
+
+* Datum der ersten DMP-Versionn
+
+* Datum der letzten DMP-Aktualisierung
