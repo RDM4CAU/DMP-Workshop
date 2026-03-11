@@ -14,7 +14,7 @@ icon:     https://www.uni-kiel.de/ps/cgi-bin/logos/files/cau/norm-en/cau-norm-en
 
 link: https://raw.githubusercontent.com/RDM4CAU/Intro-to-RDM/refs/heads/main/cau-style.css
 
-comment:  This document provides a brief introduction on how to write a DMP. It provides an overview of rdm related topics as well as some didactic and methodologies for teaching rdm to students.
+comment:  Dieses Dokument bietet eine kurze Einführung in die Erstellung eines DMP. Es gibt einen Überblick über FDM-bezogene Themen sowie einige didaktische Ansätze und Methoden zur Vermittlung von FDM an Studierende.
 
 -->
 
@@ -53,7 +53,7 @@ comment:  This document provides a brief introduction on how to write a DMP. It 
 
 **Einrichtung**
 
-[Central Research Data Management](https://www.datamanagement.uni-kiel.de/en?set_language=en)
+[Zentrales Forschungsdatenmanagement](https://www.datamanagement.uni-kiel.de/de)
 </article>
 
 ### Workshop Regeln
@@ -101,8 +101,9 @@ Wir hoffen, dass wir gemeinsam eine angenehme und respektvolle Arbeitsatmosphär
 >* den wichtigsten Begriffen und
 >
 >* den Grundprinzipien des Forschungsdatenmanagements.
->
->Wir werden in diesem Workshop keinen DMP schreiben.
+
+
+> ❗️Wir werden in diesem Workshop keinen DMP schreiben.❗️
 
 
 {{1}}
