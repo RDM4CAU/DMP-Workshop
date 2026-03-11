@@ -270,15 +270,8 @@ Verantwortlichkeiten & Ressourcen
 ***********
 **Relevante Richtlinien / Policies**
 
-![Richtlinien]()
+![Richtlinien](/DMP/images/Richtlinien.png)
 
-* Anforderungen der Förderer
-
-* fachspezifische Empfehlungen
-
-* institutionelle Richtlinien
-
-* Projekt- oder institutionenspezifische Policies zum Umgang mit Forschungsdaten
 
 ***********
 
@@ -954,3 +947,12 @@ Vielen Dank fürs Teilen! 🥰
 * Datum der ersten DMP-Versionn
 
 * Datum der letzten DMP-Aktualisierung
+
+
+* Anforderungen der Förderer
+
+* fachspezifische Empfehlungen
+
+* institutionelle Richtlinien
+
+* Projekt- oder institutionenspezifische Policies zum Umgang mit Forschungsdaten
