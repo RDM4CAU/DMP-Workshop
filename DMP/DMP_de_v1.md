@@ -235,6 +235,25 @@ Ein DMP enthält wertvolle Vorarbeiten für weitere Anforderungen (Ethikantrag, 
 
 ***********
 
+{{2}}
+***********
+
+Administrative Daten
+
+Datenbeschreibung
+
+Dokumentation und Qualität
+
+Storage & Backup
+
+Rechtliche Aspekte
+
+Datenpublikation
+
+Verantwortlichkeiten & Ressourcen
+
+***********
+
 ### Administrative Daten
 
 {{1}}
