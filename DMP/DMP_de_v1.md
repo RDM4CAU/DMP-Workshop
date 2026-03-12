@@ -846,7 +846,7 @@ e-mail: info@fdm.uni-kiel.de
 
 * Workshops
 
- * über das Graduiertenzentrum, Zentrum für wissenschaftliche Weiterbildung
+ * über das Graduiertenzentrum sowie das Zentrum für wissenschaftliche Weiterbildung
  * kleine Gruppen
  * verschiedene Zielgruppen
  * allgemeine FDM-Grundlagen
@@ -935,31 +935,3 @@ Universität zu Köln
 Vielen Dank fürs Teilen! 🥰
 ---
 
-
-# Delete later
-
-
-* Name der Förderorganisation
-
-* Fördernummer
-
-* Projekttitel / Akronym
-
-* PI /Hauptforschende:r
-
-* Forscher-ID (z. B. ORCID)
-
-* Kontaktdaten der für den DMP verantwortlichen Person
-
-* Datum der ersten DMP-Versionn
-
-* Datum der letzten DMP-Aktualisierung
-
-
-* Anforderungen der Förderer
-
-* fachspezifische Empfehlungen
-
-* institutionelle Richtlinien
-
-* Projekt- oder institutionenspezifische Policies zum Umgang mit Forschungsdaten
