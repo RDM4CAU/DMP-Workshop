@@ -282,11 +282,11 @@ Verantwortlichkeiten & Ressourcen
 
 **Art der Forschungsdaten**
 
-* Welche Datentypen und -formate werden wiederverwendet oder neu generiert?
+* Datentypen und -formate, die wiederverwendet oder neu generiert werden
 
-* Welche Werkzeuge oder Software-Tools werden verwendet?
+* Werkzeuge oder Software-Tools, die verwendet werden
 
-* Sind vorhandene Daten im Hinblick auf Technologiewahl, Formate, Nutzungsrechte, Lizenzen und Metadaten für die Wiederverwendung geeignet?
+* Wiederverwendung vorhandener Daten im Hinblick auf Technologiewahl, Formate, Nutzungsrechte, Lizenzen und Metadaten
 
 ***********
 
@@ -295,9 +295,12 @@ Verantwortlichkeiten & Ressourcen
 
 **Umfang**
 
-* Schätzen Sie die zu erwartende Datenmenge ein: sowohl während der Datenanalyse als auch nach der Auswahl der Daten für die dauerhafte Archivierung.
+* zu erwartende Datenmenge
+    - während der Datenanalyse
+    - nach der Auswahl der Daten für die dauerhafte Archivierung
 
-* Wie groß sind die größten Einzeldateien?
+
+* Größe der größten Einzeldateien
 
 ***********
 
@@ -323,6 +326,9 @@ Verantwortlichkeiten & Ressourcen
 
 {{1}}
 ***********
+
+![storage und backup]()
+
 * Speicherung und Datenaustausch während des Projekts
 
 * Backup-Strategie
@@ -396,7 +402,7 @@ Verantwortlichkeiten & Ressourcen
 ***********
 **Budget: Was kostet RDM?**
 
-☞ Planen Sie mindestens 5 % für RDM-Kosten ein!
+☞ Planen Sie mindestens 5 % für FDM-Kosten ein!
 ***********
 
 {{3-4}}
