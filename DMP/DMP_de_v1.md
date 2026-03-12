@@ -507,6 +507,7 @@ siehe auch:
     - [Singapore Statement](https://www.wcrif.org/statement)
 
 ### Nationale Forschungsförderer
+
 {{0-1}}
 ***********
 **BMBF**: Anforderungen variieren je nach Förderlinie
@@ -530,6 +531,7 @@ siehe auch:
 *************
 
 ### Institutionelle Richtlinien (CAU)
+
 {{0}}
 ***********
 Wie sieht es mit entsprechenden Richtlinien an der CAU aus?
@@ -567,7 +569,6 @@ Forschungsdaten erfüllen die **FAIR-Prinzipien**, wenn sie
 
 - und reusable (wiederverwendbar) sind.
 
-<br>
 Eine kurze Checkliste finden Sie hier: FAIR-Checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR are your data?. Zenodo. http://doi.org/10.5281/zenodo.3405141
 
 *******
