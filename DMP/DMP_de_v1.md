@@ -369,8 +369,7 @@ Budget
 {{1}}
 ***********
 
-
-* Speicherung 💾 und Datenaustausch während des Projekts 💻
+* Speicherung 💾 und Datenaustausch während des Projekts 💻 🌍
 
 * Backup-Strategie ⛑️
 
@@ -388,7 +387,7 @@ Budget
 
 * Urheberrechte und Nutzungsrechte
 
-* Lizenzrecht, Patentrecht usw 🐧
+* Lizenzrecht, Patentrecht usw.
 
 >* **Aber**: aktuell gibt es **keine Rechtsberatung** vom Zentralen Forschungsdatenmanagement an der CAU! :-(
 
@@ -397,7 +396,7 @@ Budget
 {{2}}
 ***********
 
-**Einige hilfreiche Ressourcen:**
+**Einige hilfreiche Ressourcen:** 🐧
 
 * Checkliste forschungsdaten.info (EN Version [Link](https://www.forschungsdaten.info/praxis-kompakt/english-pages/legal-issues/))
 
@@ -416,15 +415,13 @@ Budget
 * zeitlicher Ablauf der Datenübertragung ins Archiv
 
 * Veröffentlichungszeitpunkt (gegebenenfalls Sperrfrist)
-
-* Grund für die Einschränkungen
+    * Grund für die Einschränkungen
 
 * Auswahl der Nutzungslizenzen
 
 ***********
 
 ### Budget
-
 
 {{0-1}}
 ***********
@@ -446,35 +443,6 @@ See:. Jasmin Böhmer. (2019, September). UBC RDM Workshop 1 - Data Management Pl
 ![](../DMP/images/ressources.png)
 
 Adopted from.: Soßna, Volker: Wie lassen sich die Kosten für das Forschungsdatenmanagement abschätzen? Folien des Service-Teams Forschungsdaten der UH / TIB, Dezember 2018. Illustrations by Jørgen Stamp. CC BY 2.5 Denmark license www.digitalbevaring.dk
-
-***********
-
-## Wer? Netzwerke
-
-{{0-1}}
-***********
-![](../DMP/images/orientation.png)
-***********
-
-
-
-{{1-2}}
-***********
-
-![](../DMP/images/nfdi.png)
-![](../DMP/images/nfdi_consortia.png)
-
-Offizielle NFDI Website: https://www.nfdi.de/?lang=en
-
-***********
-
-{{2}}
-***********
-
-![](./images/fdm-sh.png)
-
-
-Offizielle FDM.SH Website: https://fdm-sh.de/
 
 ***********
 
@@ -716,7 +684,57 @@ https://enspire.science/wp-content/uploads/2021/09/Horizon-Europe-Data-Managemen
 * Bildungsforschung: standardisierte DMPs: [STAMP](https://www.forschungsdaten-bildung.de/stamps-nutzen)
 ***********
 
-## Übung
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Wer? Netzwerke (vielleicht ganz mit an den Schluss? Dann ist die Überleitung von den Tools in die Pause und dann in die praktische Anwendung etwas stimmiger?)
+
+{{0-1}}
+***********
+![](../DMP/images/orientation.png)
+***********
+
+
+
+{{1-2}}
+***********
+
+![](../DMP/images/nfdi.png)
+![](../DMP/images/nfdi_consortia.png)
+
+Offizielle NFDI Website: https://www.nfdi.de/?lang=en
+
+***********
+
+{{2}}
+***********
+
+![](./images/fdm-sh.png)
+
+
+Offizielle FDM.SH Website: https://fdm-sh.de/
+
+***********
+
+## PAUSE 🍵
+
+## Übung DMP-Beispiele
 
 <div style="width: 20%; float:right">
 ![working](../DMP/images/working.png)
@@ -765,6 +783,11 @@ https://enspire.science/wp-content/uploads/2021/09/Horizon-Europe-Data-Managemen
 ***********
 ![](../DMP/images/solution3.png)
 ***********
+
+
+## Übung DMP-Tool RDMO
+
+
 
 
 ## Do's & Don'ts
