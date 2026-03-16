@@ -530,7 +530,7 @@ Wie sieht es mit entsprechenden Richtlinien an der CAU aus?
 
 **********
 
-## Wer? Netzwerke (vielleicht ganz mit an den Schluss? Dann ist die Überleitung von den Tools in die Pause und dann in die praktische Anwendung etwas stimmiger?)
+## Wer? Netzwerke
 
 {{0-1}}
 ***********
@@ -713,27 +713,6 @@ https://enspire.science/wp-content/uploads/2021/09/Horizon-Europe-Data-Managemen
 
 * Bildungsforschung: standardisierte DMPs: [STAMP](https://www.forschungsdaten-bildung.de/stamps-nutzen)
 ***********
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## PAUSE 🍵
 
