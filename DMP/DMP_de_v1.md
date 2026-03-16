@@ -396,11 +396,10 @@ Budget
 {{2}}
 ***********
 
-**Einige hilfreiche Ressourcen:** 🐧
+**hilfreiche Ressource zu rechtlichen Aspekten:** 🐧
 
 * Checkliste forschungsdaten.info (EN Version [Link](https://www.forschungsdaten.info/praxis-kompakt/english-pages/legal-issues/))
 
-* UK Data Service Platform: Intro to legal aspects of RDM ([Link](https://www.ukdataservice.ac.uk/manage-data/legal-ethical))
 
 ***********
 
@@ -531,12 +530,41 @@ Wie sieht es mit entsprechenden Richtlinien an der CAU aus?
 
 **********
 
+## Wer? Netzwerke (vielleicht ganz mit an den Schluss? Dann ist die Überleitung von den Tools in die Pause und dann in die praktische Anwendung etwas stimmiger?)
+
+{{0-1}}
+***********
+![](../DMP/images/orientation.png)
+***********
+
+
+
+{{1-2}}
+***********
+
+![](../DMP/images/nfdi.png)
+![](../DMP/images/nfdi_consortia.png)
+
+Offizielle NFDI Website: https://www.nfdi.de/?lang=en
+
+***********
+
+{{2}}
+***********
+
+![](./images/fdm-sh.png)
+
+
+Offizielle FDM.SH Website: https://fdm-sh.de/
+
+***********
+
 ### FAIR Prinzipien
 
 {{1}}
 ***********
 
-![](../DMP/images/fair.png)
+![FAIR](../DMP/images/fair.png)
 
 FAIR konzentriert sich darauf, wie Daten nachhaltig aufbereitet werden können, sodass sie von anderen gefunden und genutzt werden können.
 
@@ -705,34 +733,7 @@ https://enspire.science/wp-content/uploads/2021/09/Horizon-Europe-Data-Managemen
 
 
 
-## Wer? Netzwerke (vielleicht ganz mit an den Schluss? Dann ist die Überleitung von den Tools in die Pause und dann in die praktische Anwendung etwas stimmiger?)
 
-{{0-1}}
-***********
-![](../DMP/images/orientation.png)
-***********
-
-
-
-{{1-2}}
-***********
-
-![](../DMP/images/nfdi.png)
-![](../DMP/images/nfdi_consortia.png)
-
-Offizielle NFDI Website: https://www.nfdi.de/?lang=en
-
-***********
-
-{{2}}
-***********
-
-![](./images/fdm-sh.png)
-
-
-Offizielle FDM.SH Website: https://fdm-sh.de/
-
-***********
 
 ## PAUSE 🍵
 
