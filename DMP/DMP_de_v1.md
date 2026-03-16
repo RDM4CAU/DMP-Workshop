@@ -525,6 +525,8 @@ Wie sieht es mit entsprechenden Richtlinien an der CAU aus?
 
 * [Richtlinien der CAU zur Sicherung guter wissenschaftlicher Praxis](https://www.uni-kiel.de/fileadmin/user_upload/forschung/integritaet-ethik/downloads/Richtlinien-Sicherung-guter-wissenschaftlicher-Praxis.pdf)
 
+* [Leitlinien zur Förderung von Open Access an der CAU](https://www.praesidium.uni-kiel.de/de/dokumente/leitlinien-der-cau-zu-open-access)
+
 * [Beispiel für eine projektspezifische Leitlinie: CRC 1461 Research Data Management Guide](https://www.tf.uni-kiel.de/crc1461rdm/)
 
 **********
