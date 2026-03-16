@@ -226,11 +226,14 @@ Ein DMP enthält wertvolle Vorarbeiten für weitere Anforderungen (Ethikantrag, 
 
 {{0-1}}
 ***********
+
 ![](../DMP/images/orientation.png)
+
 ***********
 
 {{1-2}}
 ***********
+
 ![](../DMP/images/dmp-content.png)
 
 ***********
@@ -250,13 +253,13 @@ Rechtliche Aspekte
 
 Datenpublikation
 
-Verantwortlichkeiten & Ressourcen
+Budget
 
 ***********
 
 ### Administrative Daten
 
-{{1}}
+{{1-2}}
 ***********
 
 **Grundlageninformationen**
@@ -266,7 +269,46 @@ Verantwortlichkeiten & Ressourcen
 
 ***********
 
-{{2}}
+{{2-4}}
+***********
+**Wer ist für FDM verantwortlich?**
+
+* Regelung der Verantwortlichkeiten
+
+* Zugangskontrolle
+
+* Schulung der Projektteilnehmenden
+
+* Datenkuratierung / Qualitätskontrolle
+
+***********
+
+{{3-4}}
+***********
+<div style="width: 20%; float:right">
+![Plan](../DMP/images/dmp-roles.png)
+</div>
+
+**Für Personal, das mit dem Datenmanagement beschäftigt ist, existieren eine Vielzahl von möglichen Bezeichnungen, z. B.**
+
+* Datenmanager:in
+
+* FDM-Koordinator
+
+* Data Steward
+
+* Data Curator
+
+* Archivar
+
+* Forschende
+
+* ...
+
+***********
+
+
+{{4}}
 ***********
 **Relevante Richtlinien / Policies**
 
@@ -308,7 +350,7 @@ Verantwortlichkeiten & Ressourcen
 
 {{1}}
 ***********
-* Konventionen für die Benennung von Ordnern und Dateien
+* Konventionen für die Benennung von Ordnern und Dateien 🗂️
 
 * Versionierung
 
@@ -327,15 +369,14 @@ Verantwortlichkeiten & Ressourcen
 {{1}}
 ***********
 
-![storage und backup]()
 
-* Speicherung und Datenaustausch während des Projekts
+* Speicherung 💾 und Datenaustausch während des Projekts 💻
 
-* Backup-Strategie
+* Backup-Strategie ⛑️
 
-* Zugriffskontrolle gemäß den Schutzanforderungen (z. B. DSGVO)
+* Zugriffskontrolle gemäß den Schutzanforderungen (z. B. DSGVO)🚦
 
-* Langzeitspeicherung
+* Langzeitspeicherung 🔏
 
 ***********
 
@@ -347,7 +388,7 @@ Verantwortlichkeiten & Ressourcen
 
 * Urheberrechte und Nutzungsrechte
 
-* Lizenzrecht, Patentrecht usw
+* Lizenzrecht, Patentrecht usw 🐧
 
 >* **Aber**: aktuell gibt es **keine Rechtsberatung** vom Zentralen Forschungsdatenmanagement an der CAU! :-(
 
@@ -382,30 +423,17 @@ Verantwortlichkeiten & Ressourcen
 
 ***********
 
-### Verantwortlichkeiten & Ressourcen
+### Budget
 
-{{1-2}}
-***********
-**Wer ist für FDM verantwortlich?**
 
-* Regelung der Verantwortlichkeiten
-
-* Zugangskontrolle
-
-* Schulung der Projektteilnehmenden
-
-* Datenkuratierung / Qualitätskontrolle
-
-***********
-
-{{2-3}}
+{{0-1}}
 ***********
 **Budget: Was kostet RDM?**
 
 ☞ Planen Sie mindestens 5 % für FDM-Kosten ein!
 ***********
 
-{{3-4}}
+{{1-2}}
 ***********
 ![](../DMP/images/budgeting.png)
 
@@ -413,7 +441,7 @@ See:. Jasmin Böhmer. (2019, September). UBC RDM Workshop 1 - Data Management Pl
 
 ***********
 
-{{4}}
+{{2}}
 ***********
 ![](../DMP/images/ressources.png)
 
@@ -421,38 +449,16 @@ Adopted from.: Soßna, Volker: Wie lassen sich die Kosten für das Forschungsdat
 
 ***********
 
-## Wer? RDM-Rollen und Netzwerke
+## Wer? Netzwerke
 
 {{0-1}}
 ***********
 ![](../DMP/images/orientation.png)
 ***********
 
+
+
 {{1-2}}
-***********
-<div style="width: 20%; float:right">
-![Plan](../DMP/images/dmp-roles.png)
-</div>
-
-**Für Personal, das mit dem Management von Forschungsdaten beschäftigt ist, existieren eine Vielzahl von möglichen Bezeichnungen, z. B.**
-
-* Datenmanager:in
-
-* FDM-Koordinator
-
-* Data Steward
-
-* Data Curator
-
-* Archivar
-
-* Forschende
-
-* ...
-
-***********
-
-{{2-3}}
 ***********
 
 ![](../DMP/images/nfdi.png)
@@ -462,7 +468,7 @@ Offizielle NFDI Website: https://www.nfdi.de/?lang=en
 
 ***********
 
-{{3}}
+{{2}}
 ***********
 
 ![](./images/fdm-sh.png)
@@ -473,7 +479,12 @@ Offizielle FDM.SH Website: https://fdm-sh.de/
 ***********
 
 ## Warum? Richtlinien und Anforderungen
+
 ![](../DMP/images/orientation.png)
+
+**Relevante Richtlinien / Policies**
+
+![Richtlinien](/DMP/images/Richtlinien.png)
 
 
 ### Europäische Kommision 
