@@ -6,9 +6,9 @@ email:    zollitsch@ub.uni-kiel.de
 
 version:  0.1.0
 
-language: en
+language: de
 
-narrator: UK English Female
+narrator: Deutsch Male
 
 icon:     https://www.uni-kiel.de/ps/cgi-bin/logos/files/cau/norm-en/cau-norm-en-blacklila-rgb-0720.png
 
@@ -89,8 +89,31 @@ Wir hoffen, dass wir gemeinsam eine angenehme und respektvolle Arbeitsatmosphär
 
 ### Orientierung
 \
-\
-![](../DMP/images/orientation.png)
+
+
+<!--
+style="
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  background-color: lightblue;
+  stroke: black;" -->
+``` ascii
+
+    .------------.     .----------------.     .-----------------------------------.
+    | Einstieg 📍|     | DMP Statements |     | Funktion, Inhalte & Anforderungen |
+    '------------'     '----------------'     '-----------------------------------'
+
+                          .-------------+----------.
+                          | Datenmanagementplan 📝 |
+                          '------------------------'
+
+    .--------------.   .------------------------.   .---------------.   .---------.  
+    | DMP Auszüge  |   | DMP-Tool ausprobieren  |   | Do's & Don'ts |   | FDM@CAU |
+    '--------------'   '------------------------'   '---------------'   '---------'
+
+```
 
 ### Limitationen
 
@@ -103,7 +126,7 @@ Wir hoffen, dass wir gemeinsam eine angenehme und respektvolle Arbeitsatmosphär
 >* den Grundprinzipien des Forschungsdatenmanagements.
 
 
-> ❗️Wir werden in diesem Workshop keinen DMP schreiben.❗️
+> Wir werden in diesem Workshop keinen DMP schreiben❗️
 
 
 {{1}}
@@ -126,9 +149,9 @@ Wir hoffen, dass Sie nach dem Workshop...
 
 * ...die Vorteile und Bestandteile eines DMP benennen können.
 
-* ...DMP-Vorlagen und -Tools benennen können. 
+* ...DMP-Vorlagen und -Tools benennen können.
 
-* ...DOs und DONTs hinsichtlich der Formulierung von DMP-Komponenten benennen können. 
+* ...einige DOs und DONTs hinsichtlich der Formulierung von DMP-Komponenten benennen können.
 
 * ...relevante CAU-Supportdienste benennen können.
 
@@ -136,7 +159,29 @@ Wir hoffen, dass Sie nach dem Workshop...
 
 ## DMP Statements
 
-![](../DMP/images/orientation.png)
+<!--
+style="
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  background-color: lightblue;
+  stroke: black;" -->
+``` ascii
+
+    .------------.     .----------------.     .-----------------------------------.
+    | Einstieg   |     |DMP Statements📍|     | Funktion, Inhalte & Anforderungen |
+    '------------'     '----------------'     '-----------------------------------'
+
+                          .-------------+----------.
+                          | Datenmanagementplan 📝 |
+                          '------------------------'
+
+    .--------------.   .------------------------.   .---------------.   .---------.  
+    | DMP Auszüge  |   | DMP-Tool ausprobieren  |   | Do's & Don'ts |   | FDM@CAU |
+    '--------------'   '------------------------'   '---------------'   '---------'
+
+```
 
 ### Statement 1
 
@@ -227,7 +272,29 @@ Ein DMP enthält wertvolle Vorarbeiten für weitere Anforderungen (Ethikantrag, 
 {{0-1}}
 ***********
 
-![](../DMP/images/orientation.png)
+<!--
+style="
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  background-color: lightblue;
+  stroke: black;" -->
+``` ascii
+
+    .------------.     .----------------.     .-----------------------------------.
+    | Einstieg   |     |DMP Statements  |     |Funktion, Inhalte & Anforderungen📍|
+    '------------'     '----------------'     '-----------------------------------'
+
+                          .-------------+----------.
+                          | Datenmanagementplan 📝 |
+                          '------------------------'
+
+    .--------------.   .------------------------.   .---------------.   .---------.  
+    | DMP Auszüge  |   | DMP-Tool ausprobieren  |   | Do's & Don'ts |   | FDM@CAU |
+    '--------------'   '------------------------'   '---------------'   '---------'
+
+```
 
 ***********
 
@@ -241,19 +308,19 @@ Ein DMP enthält wertvolle Vorarbeiten für weitere Anforderungen (Ethikantrag, 
 {{2}}
 ***********
 
-Administrative Daten
+- Administrative Daten
 
-Datenbeschreibung
+- Datenbeschreibung
 
-Dokumentation und Qualität
+- Dokumentation und Qualität
 
-Storage & Backup
+- Storage & Backup
 
-Rechtliche Aspekte
+- Rechtliche Aspekte
 
-Datenpublikation
+- Datenpublikation
 
-Budget
+- Budget
 
 ***********
 
@@ -262,16 +329,18 @@ Budget
 {{1-2}}
 ***********
 
-**Grundlageninformationen**
+Grundlageninformationen
+---
 
-![Grundlagendaten](/DMP/images/Grundlagendaten.png)
+![Grundlagendaten](../DMP/images/Grundlagendaten.png)
 
 
 ***********
 
 {{2-4}}
 ***********
-**Wer ist für FDM verantwortlich?**
+Verantwortlichkeiten
+---
 
 * Regelung der Verantwortlichkeiten
 
@@ -288,6 +357,9 @@ Budget
 <div style="width: 20%; float:right">
 ![Plan](../DMP/images/dmp-roles.png)
 </div>
+
+Mögliche Bezeichnungen für FDM-Personal
+---
 
 **Für Personal, das mit dem Datenmanagement beschäftigt ist, existieren eine Vielzahl von möglichen Bezeichnungen, z. B.**
 
@@ -312,7 +384,7 @@ Budget
 ***********
 **Relevante Richtlinien / Policies**
 
-![Richtlinien](/DMP/images/Richtlinien.png)
+![Richtlinien](../DMP/images/Richtlinien.png)
 
 
 ***********
@@ -447,15 +519,9 @@ Adopted from.: Soßna, Volker: Wie lassen sich die Kosten für das Forschungsdat
 
 ## Warum? Richtlinien und Anforderungen
 
-![](../DMP/images/orientation.png)
-
-**Relevante Richtlinien / Policies**
-
-![Richtlinien](/DMP/images/Richtlinien.png)
-
+![Richtlinien](../DMP/images/Richtlinien.png)
 
 ### Europäische Kommision 
-
 Die Anforderungen der Europäischen Kommission an das Datenmanagement und die Erstellung von DMPs ist in den letzen Jahren gestiegen!
 
 - seit 2014: Open Access Publikationen verpflichtend, Pilotphase Open Research Data & DMP
@@ -472,7 +538,6 @@ siehe:[General Model Grant Agreement](https://ec.europa.eu/info/funding-tenders/
 siehe auch:
 - [EC: Open Research Europe. Data Guidelines](https://open-research-europe.ec.europa.eu/for-authors/data-guidelines)
 - [HE Programme Guide, S.40](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf)
-
 
 ### Weitere internationale Richtlinien
 
@@ -530,35 +595,6 @@ Wie sieht es mit entsprechenden Richtlinien an der CAU aus?
 
 **********
 
-## Wer? Netzwerke
-
-{{0-1}}
-***********
-![](../DMP/images/orientation.png)
-***********
-
-
-
-{{1-2}}
-***********
-
-![](../DMP/images/nfdi.png)
-![](../DMP/images/nfdi_consortia.png)
-
-Offizielle NFDI Website: https://www.nfdi.de/?lang=en
-
-***********
-
-{{2}}
-***********
-
-![](./images/fdm-sh.png)
-
-
-Offizielle FDM.SH Website: https://fdm-sh.de/
-
-***********
-
 ### FAIR Prinzipien
 
 {{1}}
@@ -582,18 +618,15 @@ Eine kurze Checkliste finden Sie hier: FAIR-Checklist: Jones, Sarah, & Grootveld
 
 *******
 
-## Wie? Vorlagen & Werkzeuge
+## Wie? DMP-Templates & Werkzeuge
 
-![](../DMP/images/orientation.png)
-
-### DMP-Vorlagen
 {{0-1}}
 ***********
 <div style="width: 20%; float:right">
 ![working](../DMP/images/working.png)
 </div>
 
-> **Wie fängt man also an...? Verwenden Sie Vorlagen!**
+> **Wie fängt man also an...? Verwenden Sie Templates!**
 
 ***********
 
@@ -603,7 +636,8 @@ Eine kurze Checkliste finden Sie hier: FAIR-Checklist: Jones, Sarah, & Grootveld
 ![working](../DMP/images/working.png)
 </div>
 
-**Vorlagen**
+DMP-Templates
+---
 
 * [CAU-template](https://www.datamanagement.uni-kiel.de/de/service/materialien)
 
@@ -681,7 +715,7 @@ https://enspire.science/wp-content/uploads/2021/09/Horizon-Europe-Data-Managemen
 
 ***********
 
-### DMP tools
+### DMP Tools
 
 {{1}}
 ***********
@@ -714,9 +748,64 @@ https://enspire.science/wp-content/uploads/2021/09/Horizon-Europe-Data-Managemen
 * Bildungsforschung: standardisierte DMPs: [STAMP](https://www.forschungsdaten-bildung.de/stamps-nutzen)
 ***********
 
+## Netzwerke
+
+{{1-2}}
+***********
+
+![](../DMP/images/nfdi.png)
+
+![](../DMP/images/nfdi_consortia.png)
+
+Offizielle NFDI Website: https://www.nfdi.de/?lang=en
+
+***********
+
+{{2}}
+***********
+
+![](./images/fdm-sh.png)
+
+
+Offizielle FDM.SH Website: https://fdm-sh.de/
+
+***********
+
 ## PAUSE 🍵
 
-## Übung DMP-Beispiele
+
+## Übung DMP-Auszüge
+
+{{0-1}}
+*********************
+
+<!--
+style="
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  background-color: lightblue;
+  stroke: black;" -->
+``` ascii
+
+    .------------.     .----------------.     .-----------------------------------.
+    | Einstieg   |     | DMP Statements |     | Funktion, Inhalte & Anforderungen |
+    '------------'     '----------------'     '-----------------------------------'
+
+                          .-------------+----------.
+                          | Datenmanagementplan 📝 |
+                          '------------------------'
+
+    .--------------.   .------------------------.   .---------------.   .---------.  
+    | DMP Auszüge📍|   | DMP-Tool ausprobieren  |   | Do's & Don'ts |   | FDM@CAU |
+    '--------------'   '------------------------'   '---------------'   '---------'
+
+```
+*************************
+
+{{1}}
+*********************
 
 <div style="width: 20%; float:right">
 ![working](../DMP/images/working.png)
@@ -729,6 +818,8 @@ https://enspire.science/wp-content/uploads/2021/09/Horizon-Europe-Data-Managemen
 >Besprechen Sie das konkrete Beispiel – was fällt Ihnen auf?
 >
 > **Zeit: 10 Minutes**
+
+*********************
 
 ### Beispiel 1
 
@@ -769,16 +860,55 @@ https://enspire.science/wp-content/uploads/2021/09/Horizon-Europe-Data-Managemen
 
 ## Übung DMP-Tool RDMO
 
+<!--
+style="
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  background-color: lightblue;
+  stroke: black;" -->
+``` ascii
 
+    .------------.     .----------------.     .-----------------------------------.
+    | Einstieg   |     | DMP Statements |     | Funktion, Inhalte & Anforderungen |
+    '------------'     '----------------'     '-----------------------------------'
 
+                          .-------------+----------.
+                          | Datenmanagementplan 📝 |
+                          '------------------------'
+
+    .--------------.   .------------------------.   .---------------.   .---------.  
+    | DMP Auszüge  |   | DMP-Tool ausprobieren📍|   | Do's & Don'ts |   | FDM@CAU |
+    '--------------'   '------------------------'   '---------------'   '---------'
+
+```
 
 ## Do's & Don'ts
 
-{{0}}
-***********
-![](../DMP/images/orientation.png)
+<!--
+style="
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  background-color: lightblue;
+  stroke: black;" -->
+``` ascii
 
-***********
+    .------------.     .----------------.     .-----------------------------------.
+    | Einstieg   |     | DMP Statements |     | Funktion, Inhalte & Anforderungen |
+    '------------'     '----------------'     '-----------------------------------'
+
+                          .-------------+----------.
+                          | Datenmanagementplan 📝 |
+                          '------------------------'
+
+    .--------------.   .------------------------.   .---------------.   .---------.  
+    | DMP Auszüge  |   | DMP-Tool ausprobieren  |   |Do's & Don'ts📍|   | FDM@CAU |
+    '--------------'   '------------------------'   '---------------'   '---------'
+
+```
 
 ### Häufige Fehler beim Erstellen von DMPs
 
@@ -938,7 +1068,7 @@ Kontaktieren Sie uns gerne:
 
 ## Acknowledgement
 
-Dieses Workshop-Material basiert vollständig auf 
+Dieses Workshop-Material basiert auf 
 
 <div style="width: 20%; float:right">
 ![crrdmlogo](../DMP/images/c3rdm.png)
