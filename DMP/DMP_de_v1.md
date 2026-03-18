@@ -332,8 +332,15 @@ style="
 Grundlageninformationen
 ---
 
-![Grundlagendaten](../DMP/images/Grundlagendaten.png)
+* Förderorganisation und Fördernummer
 
+* Projekttitel und Akronym
+
+* Hauptforschende:r und die zugehörige ORCID
+
+* DMP-verantwortliche Person
+
+* Datum der ersten DMP Version und der letzten Aktualisierung
 
 ***********
 
