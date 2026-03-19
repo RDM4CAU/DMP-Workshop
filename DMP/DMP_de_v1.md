@@ -301,12 +301,30 @@ style="
 {{1-2}}
 ***********
 
-![](../DMP/images/dmp-content.png)
+![](../DMP/images/dmp-content.png)<!-- style="float: right; max-width: 40%" -->
+
+- **ZENTRALES DOKUMENT**
+
+  => Bringt alle auf dem gleichen Stand (z. B. bzgl. Dateinamenskonventionen, Ordnerstruktur, Versionsverwaltung, Metadatenstandards usw.), dokumentiert gute Forschungspraxis und bietet Rechtssicherheit z. B. bei Kooperationsprojekten
+
+- **LEBENDES DOKUMENT**
+
+  => Ein regelmäißg aktualisierter DMP hält Änderungen fest und kann ähnlich wie in ein Forschungsjournal fungieren. Förderer verlangen dies z. T. als Ergebnis / Teil der Berichterstattung.
+
+- **ENTSCHEIDUNGSVERLAUF**
+
+  => Die Versionierung des DMP ist eine Möglichkeit, Entscheidungswege zu dokumentieren.
+
+- **ERGEBNISKATALOG**
+
+  => Am Ende eines Projekts kann ein Katalog der Ergebnisse zur Verfügung stehen.
 
 ***********
 
 {{2}}
 ***********
+
+Ein DMP enthält üblicherweise Informationen zu:
 
 - Administrative Daten
 
@@ -326,7 +344,7 @@ style="
 
 ### Administrative Daten
 
-{{1-2}}
+{{0-3}}
 ***********
 
 Grundlageninformationen
@@ -344,7 +362,7 @@ Grundlageninformationen
 
 ***********
 
-{{2-4}}
+{{1-3}}
 ***********
 Verantwortlichkeiten
 ---
@@ -359,7 +377,7 @@ Verantwortlichkeiten
 
 ***********
 
-{{3-4}}
+{{2-3}}
 ***********
 <div style="width: 20%; float:right">
 ![Plan](../DMP/images/dmp-roles.png)
@@ -387,7 +405,7 @@ Mögliche Bezeichnungen für FDM-Personal
 ***********
 
 
-{{4}}
+{{3}}
 ***********
 **Relevante Richtlinien / Policies**
 
@@ -398,10 +416,11 @@ Mögliche Bezeichnungen für FDM-Personal
 
 ### Datenbeschreibung
 
-{{1}}
+{{0}}
 ***********
 
-**Art der Forschungsdaten**
+Art der Forschungsdaten
+---
 
 * Datentypen und -formate, die wiederverwendet oder neu generiert werden
 
@@ -411,10 +430,11 @@ Mögliche Bezeichnungen für FDM-Personal
 
 ***********
 
-{{2}}
+{{1}}
 ***********
 
-**Umfang**
+Umfang der Danten
+---
 
 * zu erwartende Datenmenge
     - während der Datenanalyse
@@ -427,8 +447,13 @@ Mögliche Bezeichnungen für FDM-Personal
 
 ### Dokumentation und Qualität
 
-{{1}}
+{{0}}
 ***********
+
+Beschreiben Sie, welche Maßnahmen Sie planen, um Dokumentation und Qualität der Daten zu gewährleisten:
+
+<br>
+
 * Konventionen für die Benennung von Ordnern und Dateien 🗂️
 
 * Versionierung
@@ -445,8 +470,9 @@ Mögliche Bezeichnungen für FDM-Personal
 
 ### Storage & Backup
 
-{{1}}
-***********
+Beschreiben Sie, welche auf welchen Medien Sie Ihre Daten Speichern werden und welche Maßnahmen Sie planen, um Datenverluste zu vermeiden.
+
+<br>
 
 * Speicherung 💾 und Datenaustausch während des Projekts 💻 🌍
 
@@ -456,12 +482,14 @@ Mögliche Bezeichnungen für FDM-Personal
 
 * Langzeitspeicherung 🔏
 
-***********
 
 ### Rechtliche Aspekte
 
-{{1}}
+{{0}}
 ***********
+
+Auch rechtliche Aspekte müssen in einem DMP beschrieben werden:
+
 * Datenschutz
 
 * Urheberrechte und Nutzungsrechte
@@ -472,7 +500,7 @@ Mögliche Bezeichnungen für FDM-Personal
 
 ***********
 
-{{2}}
+{{1}}
 ***********
 
 **hilfreiche Ressource zu rechtlichen Aspekten:** 🐧
@@ -484,8 +512,9 @@ Mögliche Bezeichnungen für FDM-Personal
 
 ### Datenpublikation
 
-{{1}}
-***********
+Ein DMP sollte Angaben zu Ihren Publikationsvorhaben enthalten:
+<br>
+
 * Auswahl der Datensätze
 
 * Name des (domänenspezifischen) Repositorys
@@ -496,8 +525,6 @@ Mögliche Bezeichnungen für FDM-Personal
     * Grund für die Einschränkungen
 
 * Auswahl der Nutzungslizenzen
-
-***********
 
 ### Budget
 
