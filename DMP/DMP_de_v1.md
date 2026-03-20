@@ -305,11 +305,11 @@ style="
 
 - **ZENTRALES DOKUMENT**
 
-  => Bringt alle auf dem gleichen Stand (z. B. bzgl. Dateinamenskonventionen, Ordnerstruktur, Versionsverwaltung, Metadatenstandards usw.), dokumentiert gute Forschungspraxis und bietet Rechtssicherheit z. B. bei Kooperationsprojekten
+  => Bringt alle auf den gleichen Stand (z.B. bzgl. Dateinamenskonventionen, Ordnerstruktur, Versionsverwaltung, Metadatenstandards usw.), dokumentiert gute Forschungspraxis und bietet Rechtssicherheit z. B. bei Kooperationsprojekten
 
 - **LEBENDES DOKUMENT**
 
-  => Ein regelmäißg aktualisierter DMP hält Änderungen fest und kann ähnlich wie in ein Forschungsjournal fungieren. Förderer verlangen dies z. T. als Ergebnis / Teil der Berichterstattung.
+  => Ein regelmäßig aktualisierter DMP hält Änderungen fest und kann ähnlich wie in ein Forschungsjournal fungieren. Förderer verlangen dies z.T. als Ergebnis / Teil der Berichterstattung.
 
 - **ENTSCHEIDUNGSVERLAUF**
 
@@ -326,7 +326,7 @@ style="
 
 Ein DMP enthält üblicherweise Informationen zu:
 
-- Administrative Daten
+- Administrativen Daten
 
 - Datenbeschreibung
 
@@ -433,10 +433,11 @@ Art der Forschungsdaten
 {{1}}
 ***********
 
-Umfang der Danten
+Umfang der Daten
 ---
 
 * zu erwartende Datenmenge
+
     - während der Datenanalyse
     - nach der Auswahl der Daten für die dauerhafte Archivierung
 
@@ -522,6 +523,7 @@ Ein DMP sollte Angaben zu Ihren Publikationsvorhaben enthalten:
 * zeitlicher Ablauf der Datenübertragung ins Archiv
 
 * Veröffentlichungszeitpunkt (gegebenenfalls Sperrfrist)
+
     * Grund für die Einschränkungen
 
 * Auswahl der Nutzungslizenzen
