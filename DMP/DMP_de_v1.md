@@ -991,7 +991,7 @@ https://doi.org/10.1371/journal.pcbi.1004525 </small>
 
 website: [Zentrales Forschungsdatenmanagement](https://www.fdm.uni-kiel.de/de) 
 
-e-mail: info@fdm.uni-kiel.de  
+e-mail: [info@fdm.uni-kiel.de](mailto:info@fdm.uni-kiel.de)  
 
 ***********
 
@@ -1080,23 +1080,15 @@ Kontaktieren Sie uns gerne:
 
 >**DMP-Beratung:**
 >
->Thorge Petersen
+>**Thorge Petersen**: [petersen@rz.uni-kiel.de](mailto:petersen@rz.uni-kiel.de)
 >
->petersen@rz.uni-kiel.de
->
->Andreas Christ
->
->christ@ub.uni-kiel.de 
+>**Andreas Christ**: [christ@ub.uni-kiel.de](mailto:christ@ub.uni-kiel.de) 
 
 >**Workshops & Unterstützung für Lehrkräfte:**
 >
->Britta Petersen
+>**Britta Petersen**: [b.petersen@rz.uni-kiel.de](mailto:b.petersen@rz.uni-kiel.de)
 >
->b.petersen@rz.uni-kiel.de 
->
->Linda Zollisch
->
->zollitsch@ub.uni-kiel.de
+>**Linda Zollisch**: [zollitsch@ub.uni-kiel.de](mailto:zollitsch@ub.uni-kiel.de)
 
 ***********
 
@@ -1115,3 +1107,33 @@ Universität zu Köln
 Vielen Dank fürs Teilen! 🥰
 ---
 
+# Hilfreiche Links
+
+Grundlageninformationen
+---
+
+- [forschungsdaten.info](https://forschungsdaten.info) - Allgemeine und weiterführende Informationen zum FDM im deutschsprachigen Raum.
+
+
+RDMO
+---
+
+- [RDMO-Kurzanleitung](https://liascript.github.io/course/?https://raw.githubusercontent.com/RDM4CAU/DMP-Workshop/refs/heads/main/DMP/RDMO_Kurzanleitung.md#1)
+
+
+Weiterbildungsangebote
+---
+
+- [FDM Kalender auf forschungsdaten.info](https://forschungsdaten.info/kalender-index/) - Hier finden Sie eine Übersicht über viele Veranstaltungs mit FDM-Bezug.
+
+- [Learning Hub UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/) - Selbstlernmaterial zum Forschungsdatenmanagement.
+
+- [Skills4EOSCSkills4EOSC Training Courses](https://www.skills4eosc.eu/participate/skills4eosc-training-courses) - Selbstlernmaterial Open Science & FAIR
+
+
+Netzwerke
+---
+
+- [Nationale Forschungsdateninfrastruktur e. V.](https://www.nfdi.de/)
+
+- [Landesinititive zum Forschungsdatenmanagement](https://fdm-sh.de/)
