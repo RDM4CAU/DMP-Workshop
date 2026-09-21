@@ -1126,7 +1126,7 @@ RDMO
 Weiterbildungsangebote
 ---
 
-- [FDM Kalender auf forschungsdaten.info](https://forschungsdaten.info/kalender-index/) - Hier finden Sie eine Übersicht über viele Veranstaltungs mit FDM-Bezug.
+- [FDM Kalender auf forschungsdaten.info](https://forschungsdaten.info/kalender-index/) - Hier findet sich eine Übersicht über viele Veranstaltungs mit FDM-Bezug.
 
 - [Learning Hub UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/) - Selbstlernmaterial zum Forschungsdatenmanagement.
 
