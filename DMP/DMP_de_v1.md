@@ -151,7 +151,7 @@ Wir hoffen, dass Sie nach dem Workshop...
 
 * ...DMP-Vorlagen und -Tools benennen können.
 
-* ...einige DOs und DONTs hinsichtlich der Formulierung von DMP-Komponenten benennen können.
+* ...einige DOs und DONTs hinsichtlich der Formulierung von DMP-Komponenten erläutern können.
 
 * ...relevante CAU-Supportdienste benennen können.
 
@@ -183,6 +183,27 @@ style="
 
 ```
 
+### Stimmt das?
+
+<div style="background-color: lightblue; font-size: 25px; padding: 10px">
+**Wir schauen uns ein kurzes Video an. Hätte ein Datenmanagementplan geholfen?**
+
+**Finden Sie im Video Argumente, die diese vier Statements unterstützen?**
+
+1. DMPs sparen Zeit!
+
+2. DMPs sparen Geld!
+
+3. DMPs sind Pflicht!
+
+4. DMPs sind nachhaltig!
+
+</div>
+
+---
+
+!?[](https://www.youtube.com/watch?v=66oNv_DJuPc)
+
 ### Statement 1
 
 <div style="background-color: lightblue;padding: 25px">
@@ -196,13 +217,13 @@ DMPs sparen Zeit!
 
 >*Gut geplant ist halb gewonnen!*
 >
->* Verantwortlichkeiten definiert
+>* Verantwortlichkeiten sind definiert
 >
->* einheitliche Konventionen etabliert
+>* einheitliche Konventionen sind etabliert
 >
->* Konflikte vermieden
+>* Konflikte werden vermieden
 >
->* Datenverlust verhindert
+>* Gefahr des Datenverlustes verringert
 
 ***********
 
@@ -219,11 +240,13 @@ DMPs sparen Geld!
 
 >*Planungsaufwand kann sich auszahlen!*
 >
->* gezielter Einsatz von Ressourcen
+>* Zeit = Geld
 >
->* spezifische FDM-Ressourcen einplanen
+>* gezielter Einsatz von vorhandenen Ressourcen
 >
->* Budget für externe Dienstleistungen
+>* spezifische FDM-Ressourcen werden eingeplant
+>
+>* Budget für externe Dienstleistungen werden eingeplant
 
 ***********
 
@@ -238,6 +261,8 @@ DMPs sind zunehmend Pflicht!
 {{1}}
 ***********
 >**Das stimmt! :-)**
+>
+>***Beispiele:***
 >
 >EU: Open Research Europe. Data Guidelines: https://open-research-europe.ec.europa.eu/for-authors/data-guidelines
 >
@@ -259,8 +284,11 @@ DMPs sind nachhaltig!
 
 {{1}}
 ***********
-Ein DMP enthält wertvolle Vorarbeiten für weitere Anforderungen (Ethikantrag, Verträge) und unterstützt die anschließende Kommunikation mit Dienstleistern als eine Art Ergebniskatalog (z. B. für den Datentransfer in Repositorien oder für das Verfassen von Datenverfügbarkeitserklärungen für Fachzeitschriften).
+- Informationen und Vorarbeiten für weitere Anforderungen (z. B. Ethikantrag, Konsortalverträge) 
+- Unterstützung der Kommunikation während und nach Beendigung eines Projektes
+- zentraler Entscheidungs- und Ergebniskatalog
 
+  - z. B. zentrale Vorgaben für den Datentransfer in Repositorien oder für das Verfassen von Datenverfügbarkeitserklärungen für Fachzeitschriften
 
 ![](../DMP/images/journals_data-availability1.png)
 ![](../DMP/images/journals_data-availability2.png)
@@ -305,7 +333,7 @@ style="
 
 - **ZENTRALES DOKUMENT**
 
-  => Bringt alle auf den gleichen Stand (z.B. bzgl. Dateinamenskonventionen, Ordnerstruktur, Versionsverwaltung, Metadatenstandards usw.), dokumentiert gute Forschungspraxis und bietet Rechtssicherheit z. B. bei Kooperationsprojekten
+  => Bringt alle auf den gleichen Stand (z.B. bzgl. Dateibenennungskonventionen, Ordnerstruktur, Versionsverwaltung, Metadatenstandards usw.), dokumentiert gute Forschungspraxis und bietet Rechtssicherheit z. B. bei Kooperationsprojekten
 
 - **LEBENDES DOKUMENT**
 
