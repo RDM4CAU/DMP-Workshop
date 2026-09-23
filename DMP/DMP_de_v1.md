@@ -881,7 +881,7 @@ style="
 >
 >Besprechen Sie das konkrete Beispiel – was fällt Ihnen auf?
 >
-> **Zeit: 10 Minutes**
+> **Zeit: 10 Minuten**
 
 *********************
 
