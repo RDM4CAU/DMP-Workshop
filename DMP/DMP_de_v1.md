@@ -372,7 +372,7 @@ Ein DMP enthält üblicherweise Informationen zu:
 
 ### Administrative Daten
 
-{{0-3}}
+{{0-2}}
 ***********
 
 Grundlageninformationen
@@ -390,7 +390,7 @@ Grundlageninformationen
 
 ***********
 
-{{1-3}}
+{{1-2}}
 ***********
 Verantwortlichkeiten
 ---
@@ -403,14 +403,9 @@ Verantwortlichkeiten
 
 * Datenkuratierung / Qualitätskontrolle
 
-<div style="width: 20%; float:right">
-![Plan](../DMP/images/dmp-roles.png)
-</div>
-
 ***********
 
-
-{{3}}
+{{2}}
 ***********
 **Relevante Richtlinien / Policies**
 
