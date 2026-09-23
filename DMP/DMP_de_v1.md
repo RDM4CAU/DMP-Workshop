@@ -403,32 +403,9 @@ Verantwortlichkeiten
 
 * Datenkuratierung / Qualitätskontrolle
 
-***********
-
-{{2-3}}
-***********
 <div style="width: 20%; float:right">
 ![Plan](../DMP/images/dmp-roles.png)
 </div>
-
-Mögliche Bezeichnungen für FDM-Personal
----
-
-**Für Personal, das mit dem Datenmanagement beschäftigt ist, existieren eine Vielzahl von möglichen Bezeichnungen, z. B.**
-
-* Datenmanager:in
-
-* FDM-Koordinator
-
-* Data Steward
-
-* Data Curator
-
-* Archivar
-
-* Forschende
-
-* ...
 
 ***********
 
@@ -659,7 +636,7 @@ Wie sieht es mit entsprechenden Richtlinien an der CAU aus?
 
 **********
 
-### FAIR Prinzipien
+## FAIR Prinzipien
 
 {{1}}
 ***********
