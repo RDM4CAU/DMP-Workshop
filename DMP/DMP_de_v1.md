@@ -675,7 +675,7 @@ Eine kurze Checkliste finden Sie hier: FAIR-Checklist: Jones, Sarah, & Grootveld
 DMP-Templates
 ---
 
-* [CAU-template](https://www.datamanagement.uni-kiel.de/de/service/materialien)
+* [CAU-template](https://www.uni-kiel.de/de/universitaet/handlungsfelder/digitale-transformation/forschungsdatenmanagement/services)
 
 * [DFG Checkliste Forschungsdaten](https://www.dfg.de/resource/blob/174732/forschungsdaten-checkliste-de.pdf)
 
