@@ -1,7 +1,9 @@
-# Vorlage DMP-Notizen
+# DMP-Notizen
+*Eine einfache Vorlage für Notizen während des Workshops...*
 
-## Administrativen Daten
+## Administrative Daten
 *Kurzbeschreibung des Projektes, Verantwortlichkeiten*
+
 
 
 ## Datenbeschreibung
@@ -30,7 +32,7 @@
 
 
 ## Datenpublikation
-*Wo und unter welchen Bedingungen werden die Daten publiziert?*
+*Wo und unter welchen Bedingungen werden Daten publiziert?*
 
 
 

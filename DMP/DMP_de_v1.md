@@ -186,10 +186,6 @@ style="
 ### Stimmt das?
 
 <div style="background-color: lightblue; font-size: 25px; padding: 10px">
-**Wir schauen uns ein kurzes Video an. Hätte ein Datenmanagementplan geholfen?**
-
-**Finden Sie im Video Argumente, die diese vier Statements unterstützen?**
-
 1. DMPs sparen Zeit!
 
 2. DMPs sparen Geld!
@@ -197,6 +193,12 @@ style="
 3. DMPs sind Pflicht!
 
 4. DMPs sind nachhaltig!
+
+---
+
+**Wir schauen uns ein kurzes Video an. Hätte ein Datenmanagementplan geholfen?**
+
+**Finden Sie im Video Argumente, die diese vier Statements unterstützen?**
 
 </div>
 
